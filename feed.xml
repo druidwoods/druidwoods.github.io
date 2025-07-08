@@ -3,12 +3,32 @@
     <title>Druid Woods Blog</title>
     <link href="https://druidwoods.github.io/feed.xml" rel="self" />
     <link href="https://druidwoods.github.io" />
-    <updated>2025-07-08T21:33:47+01:00</updated>
+    <updated>2025-07-08T21:52:41+01:00</updated>
     <author>
         <name>Jacob</name>
     </author>
     <id>https://druidwoods.github.io</id>
 
+    <entry>
+        <title>A Good Evening</title>
+        <author>
+            <name>Jacob</name>
+        </author>
+        <link href="https://druidwoods.github.io/a-good-evening/"/>
+        <id>https://druidwoods.github.io/a-good-evening/</id>
+
+        <updated>2025-07-08T21:52:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi Everyone! This is the new blog. I'm still getting this set up. ✌🏼
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi Everyone! This is the new blog. I'm still getting this set up. ✌🏼</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Notice of Summer Party</title>
         <author>
