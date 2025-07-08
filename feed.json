@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Druid Woods Blog",
     "description": "",
-    "home_page_url": "https://druidwoods.github.io/blog",
-    "feed_url": "https://druidwoods.github.io/blog/feed.json",
+    "home_page_url": "https://druidwoods.github.io",
+    "feed_url": "https://druidwoods.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Jacob"
     },
     "items": [
         {
-            "id": "https://druidwoods.github.io/blog/notice-of-summer-party/",
-            "url": "https://druidwoods.github.io/blog/notice-of-summer-party/",
+            "id": "https://druidwoods.github.io/notice-of-summer-party/",
+            "url": "https://druidwoods.github.io/notice-of-summer-party/",
             "title": "Notice of Summer Party",
             "summary": "A summer party may be held at the amenities block at some point during the summer. The date and time are still to be decided.",
             "content_html": "\n  <p>\n    A summer party may be held at the amenities block at some point during the summer. The date and time are still to be decided.\n  </p>",
