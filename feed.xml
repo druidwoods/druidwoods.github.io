@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Druid Woods Blog</title>
+    <link href="https://druidwoods.github.io/blog/feed.xml" rel="self" />
+    <link href="https://druidwoods.github.io/blog" />
+    <updated>2025-07-08T21:33:47+01:00</updated>
+    <author>
+        <name>Jacob</name>
+    </author>
+    <id>https://druidwoods.github.io/blog</id>
+
+    <entry>
+        <title>Notice of Summer Party</title>
+        <author>
+            <name>Jacob</name>
+        </author>
+        <link href="https://druidwoods.github.io/blog/notice-of-summer-party/"/>
+        <id>https://druidwoods.github.io/blog/notice-of-summer-party/</id>
+
+        <updated>2025-07-08T21:33:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A summer party may be held at the amenities block at some point during the summer. The date and time are still to be decided.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    A summer party may be held at the amenities block at some point during the summer. The date and time are still to be decided.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
